@@ -602,7 +602,7 @@ Element Plus 组件建议：
 3. 默认连接字符串写在 appsettings.json 中，例如：
 
 "ConnectionStrings": {
-  "DefaultConnection": "Server=.;Database=DataBase;Trusted_Connection=True;TrustServerCertificate=True"
+  "DefaultConnection": "Server=.;Database=StockMapDataBase;Trusted_Connection=True;TrustServerCertificate=True"
 }
 
 4. DbContext 必须配置为：
